@@ -1,59 +1,59 @@
-# Savora Restaurant Website
+# Savora Restaurant Website 🍽️
 
-A responsive restaurant landing-page project for **Savora**, a modern fine-dining concept. Built with plain HTML, CSS, and JavaScript.
+A responsive restaurant landing page for **Savora**, a modern fine-dining concept, built with HTML, CSS, and vanilla JavaScript.
 
-## Preview
+## 🌐 Live Demo
 
-Open `index.html` in a modern browser to explore the website locally. A hosted demo link can be added here once the project is deployed.
+**[Visit the live website](https://musab-mann.github.io/Savora-Restaurant/)**
 
-## Features
+## ✨ Features
 
-- Restaurant landing page with branded navigation and section-based layout
-- Responsive mobile navigation
+- Responsive restaurant landing page and branded navigation
+- Mobile-friendly navigation menu
 - Menu presentation and category/filter interactions
-- Scroll-aware navigation styling and smooth in-page navigation
-- Reveal and interface animations
-- Form validation and interactive UI elements
+- Smooth in-page navigation and scroll-aware styling
+- Reveal animations and interactive UI elements
+- Form validation
 - Back-to-top interaction
 - SEO description and Open Graph metadata
 
-This is a front-end portfolio project. Any booking, contact, or submission form should be connected to a real backend or booking service before being used for real customers.
-
-## Tech Stack
+## 🧰 Tech Stack
 
 - HTML5
 - CSS3
 - Vanilla JavaScript
 - Google Fonts
-- Font Awesome icons
+- Font Awesome
 
 No build step or package manager is required for the current static implementation.
 
-## Run locally
+## 🚀 Run Locally
 
 1. Clone or download this repository.
-2. Open `index.html` in your browser.
+2. Open `index.html` in a modern browser.
 
-For a more consistent local server experience, open the project folder in VS Code and use a static server extension such as Live Server.
+Alternatively, open the project folder in VS Code and use a static server extension such as Live Server.
 
-## Project Structure
+## 📁 Project Structure
 
-    Savora-Restaurant/
-    ├── index.html
-    ├── style.css
-    ├── script.js
-    └── README.md
+```text
+Savora-Restaurant/
+├── .github/
+│   └── workflows/
+│       └── pages.yml
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
 
-## Future Improvements
+## ⚠️ Notes
 
-- Deploy the site and add a live demo URL
-- Test responsive layouts on mobile, tablet, and desktop
-- Improve keyboard accessibility and form error messaging
-- Connect booking/contact forms to a backend or trusted third-party service
-- Add screenshots and a short walkthrough
+This is a front-end portfolio project. Form validation runs in the browser; booking, contact, or submission forms are not connected to a production backend or booking service. Do not use them to accept real customer bookings until a suitable service is integrated.
 
-## Author
+## 👤 Author
 
 **Musab Hafeez Mann**
 
-[GitHub profile](https://github.com/Musab-Mann)
+- [GitHub Profile](https://github.com/Musab-Mann)
+- [Live Demo](https://musab-mann.github.io/Savora-Restaurant/)
